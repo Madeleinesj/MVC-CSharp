@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MMarc\\source\\repos\\Challenge547\\Challenge547\\Challenge547.csproj",
+      "projectUniqueName": "C:\\Users\\MMarc\\source\\repos\\MVC-CSharp\\Challenge547\\Challenge547\\Challenge547.csproj",
       "projectName": "Challenge547",
-      "projectPath": "C:\\Users\\MMarc\\source\\repos\\Challenge547\\Challenge547\\Challenge547.csproj",
+      "projectPath": "C:\\Users\\MMarc\\source\\repos\\MVC-CSharp\\Challenge547\\Challenge547\\Challenge547.csproj",
       "packagesPath": "C:\\Users\\MMarc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MMarc\\source\\repos\\Challenge547\\Challenge547\\obj\\",
+      "outputPath": "C:\\Users\\MMarc\\source\\repos\\MVC-CSharp\\Challenge547\\Challenge547\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
