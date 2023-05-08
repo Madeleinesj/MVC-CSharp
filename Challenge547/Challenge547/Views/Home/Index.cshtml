@@ -1,0 +1,15 @@
+﻿@model Challenge547.Controllers.ViewModel
+@{
+    ViewData["Title"] = "It is now...";
+}
+<h1>@ViewData["Title"]</h1>
+<table>
+    <tr>
+        <td>
+            @Model.dateTime.ToString("MM/dd/yyyy hh:mm tt")
+        </td>
+    </tr>
+</table>
+
+
+
