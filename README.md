@@ -19,4 +19,4 @@ This project is a basic code-first console app that creates a database of studen
 
 * MVC465
 
-This project is a MVC app for newletter signups. It allows the user to put in info and add to the newsletter database and there is a way for the admin to delete entries from the database. 
+This project is a MVC app for newsletter signups. It allows the user to put in info and add to the newsletter database and there is a way for the admin to delete entries from the database. 
